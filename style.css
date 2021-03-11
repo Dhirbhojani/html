@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+h2{
+    color: orangered;
+
+}
+.header{
+    background: #000;
+color: white;
+
+}
+.game{
+    background:yellow;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
